@@ -6,7 +6,7 @@
 }
 /* Skin Colors */
 :root {
-	--primary: #0088cc;
+	--primary: #bcb8b1;
 	--primary-100: #0077b3;
 	--primary-200: #006ea6;
 	--primary-300: #006699;
@@ -23,7 +23,7 @@
 	--primary-rgba-70: rgba(0, 136, 204, 0.7);
 	--primary-rgba-80: rgba(0, 136, 204, 0.8);
 	--primary-rgba-90: rgba(0, 136, 204, 0.9);
-	--secondary: #e5f6fb;
+	--secondary: #f4f3ee;
 	--secondary-100: #cfeef8;
 	--secondary-200: #c4ebf6;
 	--secondary-300: #b9e7f4;
