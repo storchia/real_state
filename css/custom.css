@@ -2,3 +2,13 @@
     width: 8%;
         margin-right: 2%;
 }
+
+.header-nav.header-nav-links {
+    margin-right: -25%;
+}
+
+@media (max-width: 991px) {
+.header-nav.header-nav-links {
+        margin-right: 0%;
+    }
+}
